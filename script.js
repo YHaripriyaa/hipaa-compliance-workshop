@@ -23,7 +23,6 @@
         button.addEventListener('click', function(e) {
             e.preventDefault();
             alert('Redirecting to registration...');
-            // Add actual registration URL here
-            // window.location.href = 'your-registration-url';
         });
     });
+
